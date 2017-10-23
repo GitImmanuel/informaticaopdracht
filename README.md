@@ -7,6 +7,6 @@ De code is geschreven door mij en uitgedacht door mij op een maandagmiddag, en d
 
 
 Voor problemen // vragen over de code of andere vragen val ik altijd te bereiken op:
-  Email: contact@justianspijkerbosch.nl
-  Website: justianspijkerbosch.nl (momenteel in onderhoud)
-  Skype: contact@justianspijkerbosch.nl
+  <ul><li>Email: contact@justianspijkerbosch.nl</li>
+  <li>Website: justianspijkerbosch.nl (momenteel in onderhoud)</li>
+  <li>Skype: contact@justianspijkerbosch.nl</li></ul>
