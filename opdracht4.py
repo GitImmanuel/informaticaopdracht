@@ -3,6 +3,8 @@
 #import de math (wiskunde) module.
 import math
 
+#print wat we aan het doen zijn:
+print("We zijn nu aan het berekenen welke hele getallen de stelling van pythagoras kunnen volgen (geen breuken oid) en of deze uitkomen op het antwoord van a + b + c = 1000. Dit duurt even.")
 #creert een functie met de naam opdracht4 waardoor de functie gecalled kan worden met opdracht4().
 def opdracht4():
     #loopt als eerst over de zijde A heen, tussen de 1 en 1000. Daarna zijde B en daarna zijde C (het antwoord). Hij gaat alle mogelijkheden tussen de 1 en 1000 in alle gevallen na, van elke zijde. door het gebruik van de range() functie kunnen er geen kommagetallen oid voorkomen.
